@@ -1,6 +1,6 @@
 {
   "name": "k8mvc-auth",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Auth module for K8MVC",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,5 @@
   },
   "homepage": "https://github.com/digi3colin/k8mvc-auth#readme",
   "dependencies": {
-    "crypto": "^1.0.1"
   }
 }
